@@ -8,7 +8,7 @@ HEIGHT = 1080
 ROOT = scriptPath()
 
 --Sets a custom path for my images folder, make sure your imagename.png is in yoyr images folder
-DIR_IMAGES = ROOT .. "STFC_Basicimage"
+DIR_IMAGES = ROOT .. "images"
 DIR_LIBS = ROOT .. "libs/"
 setImagePath(DIR_IMAGES)
 
