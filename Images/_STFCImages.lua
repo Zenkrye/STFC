@@ -64,4 +64,4 @@ local imgs = {
 'Station.png'
 }
 
-return img
+return imgs
